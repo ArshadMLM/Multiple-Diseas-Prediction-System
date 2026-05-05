@@ -1,6 +1,3 @@
-Here’s a clean, professional README you can use for your repo 👇 (AI/ML style based on the file name)
-
----
 
 # 🧠 ML Disease Prediction System
 
